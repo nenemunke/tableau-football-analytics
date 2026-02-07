@@ -9,8 +9,8 @@
 
 ## Vista Previa
 ![Vista General del Dashboard](Mapa_procedencia_jugadores.png)
-(dashboard_equipos.png)
-(dashboard_jugadores.png)
+![Vista General del Dashboard](dashboard_equipos.png)
+![Vista General del Dashboard](dashboard_jugadores.png)
 
 ## Descripción del Proyecto
 Este proyecto simula un encargo real para la dirección técnica de un equipo de fútbol español. El objetivo fue desarrollar una herramienta de inteligencia deportiva para:
